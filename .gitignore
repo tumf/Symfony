@@ -1,8 +1,3 @@
 app/cache
 app/logs
-build/logs
-build/coverage
-build/code-browser
-build/api
-build/pdepend
 
